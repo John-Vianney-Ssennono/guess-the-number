@@ -3,9 +3,7 @@
  **********************************************************************
  *** Project #1:  Thinking of a Number                              ***
  *** Program:     my_number                                         ***
- *** Author:      John Vianney Ssennono (john.vianney.ssennono-1@ou.edu)                     ***
- *** Class:       CS 1313 010 Computer Programming, Fall 2024       ***
- *** Lab:         Sec 011 Fridays 11:00am                            ***
+ *** Author:      John Vianney Ssennono                             ***
  *** Description: Asks the user to pick a number within a range,    ***
  ***   then tells whether the user's number matches the program's.  ***
  **********************************************************************
